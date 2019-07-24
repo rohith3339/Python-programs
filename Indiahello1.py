@@ -11,9 +11,10 @@ Created on Tue Jun 18 16:54:05 2019
 #else:
     #print('Y is greater')
     
-
+#can give width and height as input(user inputs)
 width=17
 height=12
+#x and y are defaults values by a company or any other firms
 x=4
 y=3
 
